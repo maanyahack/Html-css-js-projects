@@ -1,0 +1,20 @@
+#heading{
+    text-align: center;
+}
+#calculateBtn{
+margin-top: 10px;
+display: block;
+}
+h2, h3{
+    font-weight:2px;
+}
+#calculateBtn{
+    margin-top: 10px;
+    display: block;
+    margin-top: 20px;
+    margin-right: auto;    
+}
+#calculateBtn:hover{
+        background-color: lightblue;
+        cursor: pointer;
+    }  
